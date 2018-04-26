@@ -1,0 +1,4 @@
+﻿  obrada.cpp
+c:\users\student\desktop\vezba4\vezba 4\obrada.cpp(128): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  audio_codec.vcxproj -> C:\Users\student\Desktop\vezba4\Vezba 4\Debug\audio_codec.exe
+  audio_codec.vcxproj -> C:\Users\student\Desktop\vezba4\Vezba 4\Debug\audio_codec.pdb (Full PDB)

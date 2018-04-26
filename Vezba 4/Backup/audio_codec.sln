@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "audio_codec", "audio_codec.vcproj", "{32F29AD4-F11F-4933-B1FF-2A36157BB848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F29AD4-F11F-4933-B1FF-2A36157BB848}.Debug|Win32.ActiveCfg = Debug|Win32
+		{32F29AD4-F11F-4933-B1FF-2A36157BB848}.Debug|Win32.Build.0 = Debug|Win32
+		{32F29AD4-F11F-4933-B1FF-2A36157BB848}.Release|Win32.ActiveCfg = Release|Win32
+		{32F29AD4-F11F-4933-B1FF-2A36157BB848}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
